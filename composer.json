@@ -1,0 +1,5 @@
+{
+  "require-web": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
